@@ -38,7 +38,7 @@ const Hero = () => {
           </p>
           
           <div className="flex flex-wrap items-center justify-center gap-4 mb-12">
-            <a href="https://bhavyasri-portfolio.dev/resume" className="btn-primary">
+            <a href="https://preview--tech-inspired-space.lovable.app/#about" className="btn-primary">
               <span className="flex items-center gap-2">
                 <Download size={18} />
                 Download Resume

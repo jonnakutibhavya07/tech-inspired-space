@@ -13,7 +13,7 @@ const Projects = () => {
       ],
       tech: ['MERN Stack', 'Tailwind CSS', 'JWT', 'RESTful API'],
       github: 'https://github.com/bhavyasri-portfolio/e-learn',
-      demo: 'https://e-learn.bhavyasri-portfolio.dev',
+      demo: 'https://preview--tech-inspired-space.lovable.app/#projects',
       image: 'https://via.placeholder.com/800x600/1E3A8A/FFFFFF?text=E-LEARN',
     },
     {
@@ -28,7 +28,7 @@ const Projects = () => {
       ],
       tech: ['React', 'Node.js', 'MongoDB', 'Stripe'],
       github: 'https://github.com/bhavyasri-portfolio/food-ordering',
-      demo: 'https://food-order.bhavyasri-portfolio.dev',
+      demo: 'https://preview--tech-inspired-space.lovable.app/#projects',
       image: 'https://via.placeholder.com/800x600/06B6D4/FFFFFF?text=Food+Ordering',
     },
   ];
