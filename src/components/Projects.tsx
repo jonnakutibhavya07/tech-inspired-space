@@ -14,6 +14,7 @@ const Projects = () => {
       tech: ['MERN Stack', 'Tailwind CSS', 'JWT', 'RESTful API'],
       github: 'https://github.com/bhavyasri-portfolio/e-learn',
       demo: 'https://preview--tech-inspired-space.lovable.app/#projects',
+      demoText: 'E-Learn Demo',
       image: 'https://via.placeholder.com/800x600/1E3A8A/FFFFFF?text=E-LEARN',
     },
     {
@@ -29,6 +30,7 @@ const Projects = () => {
       tech: ['React', 'Node.js', 'MongoDB', 'Stripe'],
       github: 'https://github.com/bhavyasri-portfolio/food-ordering',
       demo: 'https://preview--tech-inspired-space.lovable.app/#projects',
+      demoText: 'Food Ordering Demo',
       image: 'https://via.placeholder.com/800x600/06B6D4/FFFFFF?text=Food+Ordering',
     },
   ];
@@ -107,7 +109,7 @@ const Projects = () => {
                   className="btn-accent inline-flex items-center gap-2"
                 >
                   <ExternalLink size={18} />
-                  <span>Live Demo</span>
+                  <span>{project.demoText || 'Live Demo'}</span>
                 </a>
               </div>
             </div>
