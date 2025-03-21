@@ -53,7 +53,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-medium text-gray-900">Email</h4>
-                    <p className="text-gray-600">bhavyasri@example.com</p>
+                    <p className="text-gray-600">contact@bhavyasri-portfolio.dev</p>
                   </div>
                 </div>
                 
@@ -84,16 +84,16 @@ const Contact = () => {
                 </h3>
                 
                 <div className="flex gap-4">
-                  <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="social-icon">
+                  <a href="https://github.com/bhavyasri-portfolio" target="_blank" rel="noopener noreferrer" className="social-icon">
                     <Github size={20} />
                   </a>
-                  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-icon">
+                  <a href="https://linkedin.com/in/bhavyasri-j" target="_blank" rel="noopener noreferrer" className="social-icon">
                     <Linkedin size={20} />
                   </a>
-                  <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" className="social-icon">
+                  <a href="https://leetcode.com/bhavyasri" target="_blank" rel="noopener noreferrer" className="social-icon">
                     <Code size={20} />
                   </a>
-                  <a href="#" className="social-icon">
+                  <a href="https://bhavyasri-portfolio.dev/resume" className="social-icon">
                     <Download size={20} />
                   </a>
                 </div>

@@ -38,7 +38,7 @@ const Hero = () => {
           </p>
           
           <div className="flex flex-wrap items-center justify-center gap-4 mb-12">
-            <a href="#" className="btn-primary">
+            <a href="https://bhavyasri-portfolio.dev/resume" className="btn-primary">
               <span className="flex items-center gap-2">
                 <Download size={18} />
                 Download Resume
@@ -50,13 +50,13 @@ const Hero = () => {
           </div>
           
           <div className="flex items-center justify-center gap-6 mb-16">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="social-icon">
+            <a href="https://github.com/bhavyasri-portfolio" target="_blank" rel="noopener noreferrer" className="social-icon">
               <Github size={20} />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-icon">
+            <a href="https://linkedin.com/in/bhavyasri-j" target="_blank" rel="noopener noreferrer" className="social-icon">
               <Linkedin size={20} />
             </a>
-            <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" className="social-icon">
+            <a href="https://leetcode.com/bhavyasri" target="_blank" rel="noopener noreferrer" className="social-icon">
               <Code size={20} />
             </a>
           </div>

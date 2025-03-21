@@ -36,7 +36,7 @@ const Footer = () => {
             Made with <Heart size={16} className="mx-2 text-red-400" /> by Jonnakuti Bhavya Sri
           </p>
           <p className="text-white/50 text-sm mt-2">
-            &copy; {new Date().getFullYear()} All Rights Reserved
+            &copy; {new Date().getFullYear()} All Rights Reserved | <a href="https://bhavyasri-portfolio.dev" className="underline hover:text-white/80">bhavyasri-portfolio.dev</a>
           </p>
         </div>
       </div>

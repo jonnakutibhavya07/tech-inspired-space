@@ -12,8 +12,8 @@ const Projects = () => {
         'RESTful API enabling course creation, updates, and purchases.',
       ],
       tech: ['MERN Stack', 'Tailwind CSS', 'JWT', 'RESTful API'],
-      github: 'https://github.com',
-      demo: 'https://demo-link.com',
+      github: 'https://github.com/bhavyasri-portfolio/e-learn',
+      demo: 'https://e-learn.bhavyasri-portfolio.dev',
       image: 'https://via.placeholder.com/800x600/1E3A8A/FFFFFF?text=E-LEARN',
     },
     {
@@ -27,8 +27,8 @@ const Projects = () => {
         'Implemented 6-digit token authentication for enhanced security.',
       ],
       tech: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-      github: 'https://github.com',
-      demo: 'https://demo-link.com',
+      github: 'https://github.com/bhavyasri-portfolio/food-ordering',
+      demo: 'https://food-order.bhavyasri-portfolio.dev',
       image: 'https://via.placeholder.com/800x600/06B6D4/FFFFFF?text=Food+Ordering',
     },
   ];
